@@ -143,14 +143,3 @@ Aryan Rathore
 📜 License
 This project is created for learning and demonstration purposes.
 Feel free to use, modify, or enhance it for educational or personal projects.
-
-✨ “Code. Learn. Improve.”
-
-yaml
-Copy code
-
----
-
-If you want, I can **also add professional badges at the top** like **Java version, Spring Boot, H2, License** to make it look very GitHub-professional.  
-
-Do you want me to do that?
